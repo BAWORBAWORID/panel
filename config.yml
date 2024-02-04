@@ -1,14 +1,14 @@
 debug: false
-uuid: a8536ca8-78d4-4d10-936c-37514347cc0b
-token_id: 66MeOVM5QgPqRf4k
-token: bpGbfBYFyIwxWbenBKuTE5Ybc4HF9HUHcWpweAnwwUAgNR1WP9GyIHHBKSxmPiYG
+uuid: 231ad4c4-d1c7-4071-b2fe-cf722e2c780e
+token_id: O90mK5zrJQRdD1Ck
+token: of88Rnd6WWAhdMqXUUxk0AYevTcH7weJNebPWhqWcFKxWrMBBTHwLhGZBb5gu2MQ
 api:
   host: 0.0.0.0
   port: 443
   ssl:
     enabled: false
-    cert: /etc/letsencrypt/live/silver-train-9r7p5x4474c99jg-443.app.github.dev/fullchain.pem
-    key: /etc/letsencrypt/live/silver-train-9r7p5x4474c99jg-443.app.github.dev/privkey.pem
+    cert: /etc/letsencrypt/live/lemming-deciding-reindeer.ngrok-free.app/fullchain.pem
+    key: /etc/letsencrypt/live/lemming-deciding-reindeer.ngrok-free.app/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
