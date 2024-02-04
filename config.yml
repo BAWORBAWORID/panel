@@ -1,0 +1,18 @@
+debug: false
+uuid: e63d5051-6660-4df3-a1c9-6164c5ebb850
+token_id: viNeqBmyomdQDlpT
+token: XQFIAIKkCpVH0AYKg7Hd7nPpxC83qjckx3EgdOwvsfGKT5jYKBplasDdmO41aYhF
+api:
+  host: 0.0.0.0
+  port: 8080
+  ssl:
+    enabled: true
+    cert: /etc/letsencrypt/live/ideal-funicular-6pqwpr67g6p2rw4q-443.app.github.dev/fullchain.pem
+    key: /etc/letsencrypt/live/ideal-funicular-6pqwpr67g6p2rw4q-443.app.github.dev/privkey.pem
+  upload_limit: 100
+system:
+  data: /var/lib/pterodactyl/volumes
+  sftp:
+    bind_port: 2022
+allowed_mounts: []
+remote: 'https://ideal-funicular-6pqwpr67g6p2rw4q-80.app.github.dev'
