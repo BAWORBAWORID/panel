@@ -1,18 +1,18 @@
 debug: false
-uuid: e63d5051-6660-4df3-a1c9-6164c5ebb850
-token_id: viNeqBmyomdQDlpT
-token: XQFIAIKkCpVH0AYKg7Hd7nPpxC83qjckx3EgdOwvsfGKT5jYKBplasDdmO41aYhF
+uuid: a8536ca8-78d4-4d10-936c-37514347cc0b
+token_id: 66MeOVM5QgPqRf4k
+token: bpGbfBYFyIwxWbenBKuTE5Ybc4HF9HUHcWpweAnwwUAgNR1WP9GyIHHBKSxmPiYG
 api:
   host: 0.0.0.0
-  port: 8080
+  port: 443
   ssl:
-    enabled: true
-    cert: /etc/letsencrypt/live/ideal-funicular-6pqwpr67g6p2rw4q-443.app.github.dev/fullchain.pem
-    key: /etc/letsencrypt/live/ideal-funicular-6pqwpr67g6p2rw4q-443.app.github.dev/privkey.pem
+    enabled: false
+    cert: /etc/letsencrypt/live/silver-train-9r7p5x4474c99jg-443.app.github.dev/fullchain.pem
+    key: /etc/letsencrypt/live/silver-train-9r7p5x4474c99jg-443.app.github.dev/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/pterodactyl/volumes
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://ideal-funicular-6pqwpr67g6p2rw4q-80.app.github.dev'
+remote: 'https://silver-train-9r7p5x4474c99jg-80.app.github.dev'
