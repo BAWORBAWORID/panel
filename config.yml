@@ -1,7 +1,7 @@
 debug: false
-uuid: 231ad4c4-d1c7-4071-b2fe-cf722e2c780e
-token_id: O90mK5zrJQRdD1Ck
-token: of88Rnd6WWAhdMqXUUxk0AYevTcH7weJNebPWhqWcFKxWrMBBTHwLhGZBb5gu2MQ
+uuid: 8dc36cae-2e4c-408d-a286-3aa0f48d79a2
+token_id: wdKK5lh9PphOpoGq
+token: hBU3EbY287WEp0Ib7k5d9ayxj3aYdu25g2lPlz9PX29eF4JqLoGW0O5AiBGymfp7
 api:
   host: 0.0.0.0
   port: 443
@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://silver-train-9r7p5x4474c99jg-80.app.github.dev'
+remote: 'https://potential-acorn-v59w5g47gv5cxpqg-80.app.github.dev'
