@@ -43,4 +43,4 @@ EXPOSE 443
 VOLUME ["/srv/pterodactyl/var/", "/srv/pterodactyl/nginx/", "/srv/pterodactyl/certs/", "/srv/pterodactyl/logs/"]
 
 # Start services
-CMD ["php", "artisan", "serve", "--host", "0.0.0.0", "--port", "80"]
+CMD ["sudo", "-i", "&&", "php", "artisan", "serve", "--host", "0.0.0.0", "--port", "80"]
