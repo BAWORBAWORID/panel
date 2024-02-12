@@ -1,5 +1,5 @@
 version: '3.3'
-x-common:
+common:
   database:
     &db-environment
     # Do not remove the "&db-password" from the end of the line below, it is important
